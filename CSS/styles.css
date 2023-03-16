@@ -12,7 +12,8 @@ body {
   max-width: 700px;
   margin-left: auto;
   margin-right: auto;
-  display: block; }
+  display: block;
+  padding-top: 50px; }
 
 .circlephoto {
   height: 50%;
@@ -27,7 +28,7 @@ h1 {
   color: aliceblue;
   font-family: "Sacramento", cursive;
   font-size: 5.625rem;
-  line-height: 2;
+  line-height: 1,5;
   margin: 50px;
   text-align: center; }
 
@@ -89,7 +90,7 @@ p {
   height: 150px; }
 
 .intro {
-  width: 50%;
+  width: 70%;
   margin: auto; }
 
 .teachericon {
